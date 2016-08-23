@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TR069Service_std</string>
+    <string name="upgrade_1">正在下载更新软件</string>
+    <string name="upgrade_2">……</string>
+    <string name="chuanhao_login">登录</string>
+    <string name="chuanhao_input">请输入串号</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="title">温馨提示</string>
+    <string name="reboot_for_install_package_prefix">系统有更新是否立即执行</string>
+    <string name="reboot_for_install_package_suffix">秒后重启以完成升级。</string>    
+    <string name="VersionIniPath">/cache/</string>
+    <string name="VersionIniFullPath">/cache/Version.ini</string>
+    
+    <string name="openuser_input">请输入激活码(IPTV账号后13位)</string>
+	<string name="openuserfail_input">激活失败!请输入正确的激活码(IPTV账号后13位)!</string>
+	<string name="openuser_partition">-</string>
+	<string name="openuser_cancle">取消</string>
+	<string name="openuser_ok">确定</string>
+	<string name="openuser_activate">激活成功</string>
+	<string name="openuser_activing">正在激活</string>
+	<string name="openuser_reminder">温馨提示</string>
+	
+	<string name="btn_0">start tr069service</string>
+	<string name="btn_1">not available</string>
+</resources>

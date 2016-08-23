@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Nodes>
+	<VERSIONCODE version = "1">
+		<KeyData>
+			<Node key="VERSIONSWITCH" value="RockChipVersion"/>
+			<Node key="IPTVUSERID" value=""/>
+			<Node key="IPTVUSERID2" value=""/>
+			<Node key="IPTVUSERPASSID" value=""/>
+			<Node key="IPTVUSERPASSID2" value=""/>
+			<Node key="IPTVAUTHURL" value=""/>
+			<Node key="IPTVAUTHURLBAKUP" value=""/>
+			<Node key="UPGRADEJUDGEMNT" value="0"/>
+			<Node key="TR069AUTHURL" value="http://210.13.0.186:8080/web/tr069"/>
+			<Node key="TR069AUTHURLBAKUP" value="http://210.13.0.186:8080/web/tr069"/>
+		</KeyData>
+		<Node key="Device.DeviceSummary" value="JIUZHOU" />
+		<Node key="Device.HDTVLevel" value="4K" />
+		<Node key="Device.CPU" value="4core ARM A53 1GHz" />
+		<Node key="Device.DeviceType" value="STB" />
+		<Node key="Device.DeviceInfo.Manufacturer" value="JIUZHOU" />
+		<Node key="Device.DeviceInfo.ManufacturerOUI" value="000004" />
+		<Node key="Device.DeviceInfo.ModelName" value="E680E" />
+		<Node key="Device.DeviceInfo.ModelID" value="MX574_STB_jzby1343" />
+		<Node key="Device.DeviceInfo.Description" value="JIUZHOU IPTV E680E" />
+		<Node key="Device.DeviceInfo.ProductClass" value="JZBY010" />
+		<Node key="Device.DeviceInfo.EnabledOption" value="aa,bb,cc,dd,ee,ff,gg" />
+		<Node key="Device.DeviceInfo.AdditionalHardwareVersion" value="0" />
+		<Node key="Device.DeviceInfo.AdditionalSoftwareVersion" value="0" />
+		<Node key="Device.DeviceInfo.ConfigVersion" value="jz_factory_config" />
+		<Node key="Device.DeviceInfo.DeviceStatus" value="Up" />
+		<Node key="Device.DeviceInfo.SoftwareVersionList.systemVersion" value="1.0" />
+		<Node key="Device.DeviceInfo.SoftwareVersionList.tmVersion" value="2.0" />
+		<Node key="Device.DeviceInfo.SoftwareVersionList.iptvVersion" value="3.0" />
+		<Node key="Device.DeviceInfo.SoftwareVersionList.imsVersion" value="4.0" />
+		<Node key="Device.DeviceInfo.SoftwareVersionList.launcherVersion" value="5.0" />
+		<Node key="Device.DeviceInfo.SoftwareVersionList.dlnaVersion" value="6.0" />
+		<Node key="Device.DeviceInfo.SoftwareVersionList.EPGVersion" value="7.0" />
+		<Node key="Device.DeviceInfo.SoftwareVersionList.LauncherVersion" value="8.0" />
+		<Node key="Device.ManagementServer.Username" value="STBUserName" />
+		<Node key="Device.ManagementServer.Password" value="STBAdmin" />
+		<Node key="Device.ManagementServer.UpgradesManaged" value="0" />
+		<Node key="Device.ManagementServer.PeriodicInformEnable" value="1" />
+		<Node key="Device.ManagementServer.PeriodicInformInterval" value="3600" />
+		<Node key="Device.ManagementServer.ParameterKey" value="SetParameterValues7639578" />
+		<Node key="Device.ManagementServer.STUNEnable" value="1" />
+		<Node key="Device.GatewayInfo.ManufacturerOUI" value="000004" />		
+		<Node key="Device.GatewayInfo.ProductClass" value="JZBY010" />		
+		<Node key="Device.Config.PersistentData" value="not available" />
+		<Node key="Device.STBService.StreamingControlProtocols" value="RTSP,IGMP,IGMPv2,IGMPv3" />
+		<Node key="Device.STBService.StreamingTransportProtocols" value="UDP,TCP,RTP,HTTP" />
+		<Node key="Device.STBService.StreamingTransportControlProtocols" value="RTCP" />
+		<Node key="Device.STBService.DownloadTransportProtocols" value="HTTP,HTTPS,FTP,FTPS,SFTP,TFTP" />
+		<Node key="Device.STBService.MultiplexTypes" value="MPEG1-SYS,MPEG2-PS,VOB,MPEG2-TS" />
+		<Node key="Device.STBService.MaxDejitteringBufferSize" value="-1" />
+		<Node key="Device.STBService.AudioStandards" value="MPEG1-Part3-Layer2,MPEG1-Part3-Layer3,MPEG2-Part3 –Layer2,MPEG2-Part3-Layer3,MPEG2.5,MP3-PRO,MPEG2-AAC-LC,MPEG4-AAC-LC,MPEG4-AAC-MP,MPEG4-BSAC,MPEG4-AAC-HE-v2,MP3-Surround,DOLBY-AC3,DOLBY-DD+,DTS,DTS-HD,ISO/IEC 13818-3,AAC,HE-AAC,WMA" />
+		<Node key="Device.STBService.VideoStandards" value="MPEG2-Part2,MPEG4-Part2,MPEG4-Part10,,H.264,SMPTE-VC-1,PAL,WMV9,AVS,DIVX,XVID,RMVB" />
+		<Node key="Device.X_CU_STB.STBInfo.OperatorInfo" value="JIUZHOU"/>
+		<Node key="Device.X_CU_STB.STBInfo.IntegrityCheck" value="0"/>
+		<Node key="Device.X_CU_STB.STBInfo.UpgradeURL" value="http://210.13.0.186:8080/"/>
+		<Node key="Device.X_CU_STB.STBInfo.BrowserURL1" value="http://www.baidu.com"/>
+		<Node key="Device.X_CU_STB.STBInfo.BrowserURL2" value="http://www.baidu.com"/>
+		<Node key="Device.X_CU_STB.STBInfo.AdministratorPassword" value="jzby"/>
+		<Node key="Device.X_CU_STB.STBInfo.UserPassword" value="jzby"/>
+		<Node key="Device.X_CU_STB.STBInfo.UserProvince" value="10020"/>
+		<Node key="Device.X_CU_STB.AuthServiceInfo.Activate" value="1"/>
+		<Node key="Device.X_CU_STB.AuthServiceInfo.IPOEID" value="jzby"/>
+		<Node key="Device.X_CU_STB.AuthServiceInfo.IPOEPassword" value="jzby"/>
+		<Node key="Device.X_CU_STB.AuthServiceInfo.PPPOEEnable" value="jzby"/>
+		<Node key="Device.X_CU_STB.AuthServiceInfo.PPPOEID" value="jzby"/>
+		<Node key="Device.X_CU_STB.AuthServiceInfo.PPPOEPassword" value="jzby"/>
+		<Node key="Device.X_CU_STB.AuthServiceInfo.UserID" value="jzby"/>
+		<Node key="Device.X_CU_STB.AuthServiceInfo.UserIDPassword" value="jzby"/>
+		<Node key="Device.X_CU_STB.AuthServiceInfo.PPPOEID2" value="jzby"/>
+		<Node key="Device.X_CU_STB.AuthServiceInfo.PPPOEPassword2" value="jzby"/>
+		<Node key="Device.X_CU_STB.AuthServiceInfo.UserID2" value="jzby"/>
+		<Node key="Device.X_CU_STB.AuthServiceInfo.UserIDPassword2" value="jzby"/>
+		<Node key="cwmp.cwmpd.httpd_port" value="10020"/>
+		<Node key="cwmp.cwmpd.udp_port" value="12315" />
+		<Node key="cwmp.cwmp.acs_auth" value="1"/>
+		<Node key="cwmp.cwmp.cpe_auth" value="0" />
+	</VERSIONCODE> 
+	
+	<VERSIONCODE version = "2">
+		<Node key="cwmp.cwmp.acs_auth" value="1" />
+		<Node key="cwmp.inform.event_bootstrap" value="1" />
+	</VERSIONCODE>
+</Nodes>

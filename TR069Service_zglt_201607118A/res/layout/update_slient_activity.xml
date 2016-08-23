@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="450dp"
+    android:layout_height="200dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvRebootForInstall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+	android:layout_marginTop="20dp"
+        android:text="@string/reboot_for_install_package_prefix"
+        android:textSize="24sp" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp">
+
+        <Button
+            android:id="@+id/btnrebootForInstallConfirm"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="60dp"
+            android:gravity="center_horizontal"
+            android:text="@string/confirm"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/btnRebootForInstallCancel"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="60dp"
+            android:gravity="center_horizontal"
+            android:text="@string/cancel"
+            android:textSize="24sp" />
+    </RelativeLayout>
+
+</LinearLayout>
